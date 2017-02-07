@@ -54,7 +54,7 @@ class PyTest(TestCommand):
         raise SystemExit(errno)
 
 setup(
-    name='aiohttp-swagger',
+    name='aiohttp-swagger-ext',
     version='1.0.4',
     install_requires=required,
     url='https://github.com/cr0hn/aiohttp-swagger',
